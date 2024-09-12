@@ -7,7 +7,7 @@
 Puedes encontrarme en 👇
 
 [![LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/javier-marrón-de-llano-ramírez/)
-[![Correo electrónico](./img/message.png)](mailto:jmarrondellanoramirez@gmail.com)
+[![Correo electrónico](./img/mail-icon.png)](mailto:jmarrondellanoramirez@gmail.com)
 
 ## Estadísticas 📊
 
