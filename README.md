@@ -20,6 +20,7 @@ Puedes encontrarme en 👇
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-C50938?logo=angular&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-41BDF8?logo=react&logoColor=white&style=for-the-badge)
 
 ![Php](https://img.shields.io/badge/php-556097?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/laravel-F55644?logo=laravel&logoColor=white&style=for-the-badge)
