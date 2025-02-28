@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Javier Marrón, y actualmente soy un estudiante de desarrollo de aplicaciones web.
+¡Bienvenido a mi perfil de GitHub! Soy Javier Marrón, y actualmente soy Web Developer.
 
 ## Contacto 📬
 
